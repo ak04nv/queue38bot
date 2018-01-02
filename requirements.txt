@@ -1,0 +1,13 @@
+aiohttp==2.3.7
+aiotg==0.9.5
+argh==0.26.2
+async-timeout==2.0.0
+chardet==3.0.4
+idna==2.6
+motor==1.2.0
+multidict==3.3.2
+pathtools==0.1.2
+pymongo==3.6.0
+PyYAML==3.12
+watchdog==0.8.3
+yarl==0.17.0
