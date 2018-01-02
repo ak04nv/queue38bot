@@ -4,7 +4,7 @@ from datetime import timedelta
 from bot.utils import get_queue
 
 help_msg = '''
-Usage:
+Использование:
 /help - Вывод справки
 /queue - Задать номер заявки
 /check - Проверить номер очереди
